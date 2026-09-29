@@ -1,0 +1,15 @@
+{
+	"name": "inteligencia-negocios-leo",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d4e2079e-95fa-4324-b66b-0efae56d7dd0",
+		"tenantId": "00d65d4e-f763-4663-8387-239ae5acd719"
+	}
+}
